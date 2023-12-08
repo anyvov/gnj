@@ -259,8 +259,8 @@ header.active {
  스와이퍼 
  =-=-=-=-=-=-=-*/
  /* 배경 */
-.mainslidebg01 {background-image: url(/assets/images/slide/main01.jpg);}
-.mainslidebg02 {background-image: url(/assets/images/slide/main02.jpg);}
+.mainslidebg01 {background-image: url(assets/images/slide/main01.jpg);}
+.mainslidebg02 {background-image: url(assets/images/slide/main02.jpg);}
 
 .swiper-pagination{
   bottom: 20px;
@@ -291,7 +291,7 @@ header.active {
 .swiper-button-next, .swiper-button-prev {
   background-size: cover;
   background-position: center;
-  background-image: url(/assets/images/slide/Arrow.png);
+  background-image: url(assets/images/slide/Arrow.png);
 }
 
 .swiper-button-prev {
@@ -406,7 +406,7 @@ i {
 
 /* 큰 X */
 .i-close {
-  background-image: url(/assets/images/icon/close.png);
+  background-image: url(assets/images/icon/close.png);
   width: 35px;
   height: 35px;
   transform-origin: center center;
@@ -420,84 +420,84 @@ i {
 
 /* 작은 X */
 .i-close02 {
-  background-image: url(/assets/images/icon/close02.png);
+  background-image: url(assets/images/icon/close02.png);
   width: 18px;
   height: 18px;
 }
 
 /* 돋보기 */
 .i-search {
-  background-image: url(/assets/images/icon/icon03.png);
+  background-image: url(assets/images/icon/icon03.png);
   width: 19px;
   height: 19px;
 }
 
 /* 돋보기 회색 */
 .i-search-gray {
-  background-image: url(/assets/images/icon/icon04.png);
+  background-image: url(assets/images/icon/icon04.png);
   width: 19px;
   height: 19px;
 }
 
 /* 어드민 */
 .i-myadmin {
-  background-image: url(/assets/images/icon/icon01.png);
+  background-image: url(assets/images/icon/icon01.png);
   width: 16px;
   height: 19px;
 }
 
 /* 사람 */
 .i-person {
-  background-image: url(/assets/images/icon/person.png);
+  background-image: url(assets/images/icon/person.png);
   width: 27px;
   height: 30px;
 }
 
 /* 쇼핑백 */
 .i-sbag {
-  background-image: url(/assets/images/icon/icon02.png);
+  background-image: url(assets/images/icon/icon02.png);
   width: 16px;
   height: 17px;
 }
 
 /* 깃발 */
 .i-flag {
-  background-image: url(/assets/images/icon/Vector.png);
+  background-image: url(assets/images/icon/Vector.png);
   width: 12px;
   height: 15px;
 }
 
 /* 문서 */
 .i-document {
-  background-image: url(/assets/images/icon/document.png);
+  background-image: url(assets/images/icon/document.png);
   width: 24px;
   height: 32px;
 }
 
 /* 트럭 */
 .i-truck {
-  background-image: url(/assets/images/icon/truck.png);
+  background-image: url(assets/images/icon/truck.png);
   width: 39px;
   height: 26px;
 }
 
 /* 장바구니 */
 .i-basket {
-  background-image: url(/assets/images/icon/basket.png);
+  background-image: url(assets/images/icon/basket.png);
   width: 31px;
   height: 26px;
 }
 
 /* 모니터 */
 .i-monitor {
-  background-image: url(/assets/images/icon/monitor.png);
+  background-image: url(assets/images/icon/monitor.png);
   width: 30px;
   height: 24px;
 }
 
 /* 안내 */
 .i-info {
-  background-image: url(/assets/images/icon/info.png);
+  background-image: url(assets/images/icon/info.png);
   width: 31px;
   height: 31px;
 }

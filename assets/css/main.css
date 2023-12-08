@@ -7,7 +7,7 @@
 /* Lato, PT Serif */
 @font-face {
   font-family: 'lato-regular';
-  src: url(assets/font/Lato/Lato-Regular.woff2);
+  src: url(../font/Lato/Lato-Regular.woff2);
   font-weight: normal;
   font-style: normal;
   transform : rotate(0.04deg);
@@ -15,7 +15,7 @@
 
 @font-face {
   font-family: 'PT-regular';
-  src: url(assets/font/PT_Serif//PTSerif-Regular.woff2);
+  src: url(../font/PT_Serif/PTSerif-Regular.woff2);
   font-weight: 700;
   font-style: normal;
   transform : rotate(0.04deg);
