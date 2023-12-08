@@ -259,8 +259,8 @@ header.active {
  스와이퍼 
  =-=-=-=-=-=-=-*/
  /* 배경 */
-.mainslidebg01 {background-image: url(assets/images/slide/main01.jpg);}
-.mainslidebg02 {background-image: url(assets/images/slide/main02.jpg);}
+.mainslidebg01 {background-image: url(../images/slide/main01.jpg);}
+.mainslidebg02 {background-image: url(../images/slide/main02.jpg);}
 
 .swiper-pagination{
   bottom: 20px;
